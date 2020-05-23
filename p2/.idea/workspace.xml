@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66223cd2-8314-419c-b0fe-649b3e7d70e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bX7RdxViw8NWh2MUaEGtqmnh5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitproject" />
+  </component>
+  <component name="RunManager" selected="Python.mysql_4">
+    <configuration name="mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/mysql_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/mysql_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/mysql_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/mysql_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mysql_4" />
+        <item itemvalue="Python.mysql_dict" />
+        <item itemvalue="Python.mysql_3" />
+        <item itemvalue="Python.mysql_read" />
+        <item itemvalue="Python.mysql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66223cd2-8314-419c-b0fe-649b3e7d70e9" name="Default Changelist" comment="" />
+      <created>1588766578074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588766578074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="274" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589100933937">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="597" y="274" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1851.899@67.27.1851.899" timestamp="1589100933937" />
+    <state x="663" y="73" width="649" height="805" key="#p4" timestamp="1588769445053">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="663" y="73" width="649" height="805" key="#p4/67.27.1851.899@67.27.1851.899" timestamp="1588769445053" />
+    <state x="716" y="233" key="FileChooserDialogImpl" timestamp="1589985568366">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="716" y="233" key="FileChooserDialogImpl/67.27.1851.899@67.27.1851.899" timestamp="1589985568366" />
+    <state width="1825" height="284" key="GridCell.Tab.0.bottom" timestamp="1589985572038">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="284" key="GridCell.Tab.0.bottom/67.27.1851.899@67.27.1851.899" timestamp="1589985572038" />
+    <state width="1825" height="284" key="GridCell.Tab.0.center" timestamp="1589985572036">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="284" key="GridCell.Tab.0.center/67.27.1851.899@67.27.1851.899" timestamp="1589985572036" />
+    <state width="1825" height="284" key="GridCell.Tab.0.left" timestamp="1589985572036">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="284" key="GridCell.Tab.0.left/67.27.1851.899@67.27.1851.899" timestamp="1589985572036" />
+    <state width="1825" height="284" key="GridCell.Tab.0.right" timestamp="1589985572036">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="284" key="GridCell.Tab.0.right/67.27.1851.899@67.27.1851.899" timestamp="1589985572036" />
+    <state width="1825" height="278" key="GridCell.Tab.1.bottom" timestamp="1589110749961">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="278" key="GridCell.Tab.1.bottom/67.27.1851.899@67.27.1851.899" timestamp="1589110749961" />
+    <state width="1825" height="278" key="GridCell.Tab.1.center" timestamp="1589110749960">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="278" key="GridCell.Tab.1.center/67.27.1851.899@67.27.1851.899" timestamp="1589110749960" />
+    <state width="1825" height="278" key="GridCell.Tab.1.left" timestamp="1589110749960">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="278" key="GridCell.Tab.1.left/67.27.1851.899@67.27.1851.899" timestamp="1589110749960" />
+    <state width="1825" height="278" key="GridCell.Tab.1.right" timestamp="1589110749960">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state width="1825" height="278" key="GridCell.Tab.1.right/67.27.1851.899@67.27.1851.899" timestamp="1589110749960" />
+    <state x="642" y="78" width="690" height="795" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589979715117">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="642" y="78" width="690" height="795" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1851.899@67.27.1851.899" timestamp="1589979715117" />
+    <state x="632" y="219" width="719" height="678" key="search.everywhere.popup" timestamp="1589898473990">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="632" y="219" width="719" height="678" key="search.everywhere.popup/67.27.1851.899@67.27.1851.899" timestamp="1589898473990" />
+  </component>
+</project>
